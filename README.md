@@ -18,22 +18,6 @@ Quantum Image Processor is a sleek and powerful image transformation tool design
 
 Whether you're compressing a banner or converting formats for performance, this tool is designed to simplify the process.
 
----
-
-## 📦 Installation & Setup
-
-### Prerequisites
-
-- Node.js (v14 or above)
-- npm (v6 or above)
-
-### Steps to Install
-
-```bash
-git clone https://github.com/your-username/quantum-image-processor.git
-cd quantum-image-processor
-npm install
-npm start
 
 
 
