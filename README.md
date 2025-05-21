@@ -44,7 +44,8 @@ Whether you're compressing a banner or converting formats for performance, this 
 git clone https://github.com/your-username/quantum-image-processor.git
 cd quantum-image-processor
 npm install
-npm start
+npm start '''
+
 👤 About the Author
 Hi, I’m Krishan Murari – a passionate Web Developer & Poet. I enjoy building intuitive tools and meaningful user experiences.
 
