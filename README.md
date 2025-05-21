@@ -17,11 +17,8 @@ Quantum Image Processor is a sleek and powerful image transformation tool design
 - 🧠 Auto-optimize output for web
 
 Whether you're compressing a banner or converting formats for performance, this tool is designed to simplify the process.
-
-
-
-
-# Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+##👤 About the Author
+#Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
@@ -102,3 +99,21 @@ I enjoy coding, writing poetry, and watching movies.
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+
+---
+
+## 📦 Installation & Setup
+
+### Prerequisites
+
+- Node.js (v14 or above)
+- npm (v6 or above)
+
+### Steps to Install
+
+```bash
+git clone https://github.com/your-username/quantum-image-processor.git
+cd quantum-image-processor
+npm install
+npm start
